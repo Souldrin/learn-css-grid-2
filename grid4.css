@@ -1,0 +1,10 @@
+.item {
+    background-color: mediumpurple;
+}
+.container {
+    display:grid;
+    grid-template-columns:100px 100px ;
+    grid-template-rows: 200px 200px ;
+    row-gap: 50px;
+    column-gap: 100px;
+}
