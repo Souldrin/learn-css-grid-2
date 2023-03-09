@@ -33,4 +33,7 @@
     row-gap: 50px;
     column-gap: 50px;
 }
+body{
+    margin-top:auto;
+}
 
